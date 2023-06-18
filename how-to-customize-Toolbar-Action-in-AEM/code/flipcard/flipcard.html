@@ -1,0 +1,15 @@
+<sly data-sly-use.clientlib="core/wcm/components/commons/v1/templates/clientlib.html">
+  <sly data-sly-call="${clientlib.css @ categories='wknd.flipcard.component'}" />
+</sly>
+<div class="acc--container">
+  <div class="acc--front">
+    <span>Parte delantera</span>
+  </div>
+  <div class="acc--back acc--hide">
+    <span>Parte trasera</span>
+  </div>
+</div>
+
+<sly data-sly-use.clientlib="core/wcm/components/commons/v1/templates/clientlib.html">
+  <sly data-sly-call="${clientlib.js @ categories='wknd.flipcard.component'}" />
+</sly>
