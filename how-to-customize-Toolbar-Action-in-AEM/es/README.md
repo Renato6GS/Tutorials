@@ -9,7 +9,7 @@ Agregar un botón extra al Toolbar Action a la lista de opciones existentes al e
 
 <video src="../img/result.mp4" controls title="Our objective"></video>
 
-**Nota**: En el anter
+**Nota**: Hay un video en ../img/result.mp4 por si GitHub es incapaz de reproducirlo.
 
 ## Especificaciones de mi PC
 
